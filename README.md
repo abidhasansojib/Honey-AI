@@ -1,5 +1,7 @@
 # Honey AI
 ![Honey AI](honey.jpeg)
+
+
 Welcome to Honey AI, an Android application that goes beyond the ordinary! Powered by GPT-3 and ChatGPT-4, Honey AI is not just a question-answering app; it's a smart conversational companion with an added flair for productivity.
 
 ## Features
