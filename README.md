@@ -11,7 +11,7 @@ Welcome to Honey AI, an Android application that goes beyond the ordinary! Power
 - **Voice Recognition:** Interact effortlessly with Honey AI using voice commands, making the user experience intuitive and hands-free.
 
 - **Chat with PDF:** Explore the innovative "Chat with PDF" feature, allowing you to engage in interactive conversations with PDF documents. Extract information and insights in a conversational style.
-
+### It have more feature.Explore and use them.
 ## Download
 Ready to experience the future of AI? Head over to the [Google Drive link](https://drive.google.com/file/d/1gBVbCdXn_aV1_8iF_B8DMCZUY5mEyDHX/view?usp=drivesdk)
 
